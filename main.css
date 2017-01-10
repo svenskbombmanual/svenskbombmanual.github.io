@@ -43,6 +43,11 @@ html {
     line-height: normal;
 }
 
+@font-face {
+	font-family: 'Cabin';
+	src: url(Cabin-Regular.otf);
+}
+
 /*
  * Remove text-shadow in selection highlight: h5bp.com/i
  * These selection rule sets have to be separate.
