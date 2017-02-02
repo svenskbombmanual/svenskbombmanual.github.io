@@ -179,17 +179,17 @@ h2 {
 }
 
 h2.first-in-section {
-    margin: .3em 0 1.2em;
+    margin: .3em 0 0.8em;
 }
 
 h3 {
-    font-size: 2em;
-    margin: 1em 0 0;
+    font-size: 1.8em;
+    margin: 0em 0 0;
 }
 
 h4 {
     font-size: 1em;
-    margin: 0.1em 0 0;
+    margin: 0em 0 0;
 }
 
 h5 {
@@ -341,7 +341,7 @@ p, div > ul, div > ol {
     .main-manual-version img {
         float:left;
         height: 13em;
-    }
+    }	
     
 .other-manual-version {
     width: 100%;
